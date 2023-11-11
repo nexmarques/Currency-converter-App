@@ -47,7 +47,7 @@ export default function App() {
     return (
       <View style={styles.loading} >
         <ActivityIndicator
-          color='#FFF'
+          color='#000'
           size="large"
         />
       </View>
